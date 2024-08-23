@@ -1,0 +1,7 @@
+.categori-item {
+  display: flex;
+  justify-content: space-between;
+}
+.select {
+  background-color: aqua;
+}
